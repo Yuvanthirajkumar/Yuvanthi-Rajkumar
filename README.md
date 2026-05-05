@@ -7,15 +7,14 @@
 ## 💫 About Me
 - 🎓 Final year student passionate about tech & data  
 - 📊 Skilled in **Python, Data Analysis, Visualization**  
-- 💡 Currently working on: **Smart Tutor (AI Learning Platform)**  
 - 🚀 Goal: To build impactful real-world solutions  
-- 📫 Reach me: your-email@example.com  
+- 📫 Reach me: yuvanthirajkumar@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,java" />
 </p>
 
 ---
@@ -37,8 +36,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YUVANTHI_RAJKUMAR&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVANTHI_RAJKUMAR&theme=radical" />
 </p>
 
 ---
