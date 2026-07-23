@@ -44,8 +44,8 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/yuvanthi-rs"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Yuvanthirajkumar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
